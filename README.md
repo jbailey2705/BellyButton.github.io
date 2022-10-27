@@ -16,4 +16,12 @@ The Belly Button project focuses on building an interactive dashboard to visuali
 ## Link to Belly Button Biodiversity webpage
 The fully deployed webpage can be accessed at https://jbailey2705.github.io/
 
-## Featured Functions
+## Featured Functions Include
+- Test Subject dropdown feature
+- Demographic information guide
+- Bar Chart showing the top 10 Bacteria Culture in the Test Subject
+- Gauge showing Belly Button Washing Frequency
+- Bubble Chart displaying Bacteria Cultures per Sample
+
+![Screen Shot 2022-10-26 at 7 39 31 PM](https://user-images.githubusercontent.com/109354592/198164421-e3c68923-43d1-4308-9abf-3ca0e749f937.png)
+![Screen Shot 2022-10-26 at 7 39 42 PM](https://user-images.githubusercontent.com/109354592/198164423-55abbe73-45e5-497c-95a0-f928d7e8fbe4.png)
