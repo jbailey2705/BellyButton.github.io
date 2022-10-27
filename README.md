@@ -5,5 +5,13 @@ The Belly Button project focuses on building an interactive dashboard to visuali
 
 ## Resources
 - BellyButton [Sample.data ](https://github.com/jbailey2705/jbailey2705.github.io/blob/main/samples.json)
+- Software: 
+  * HTML/CSS
+  * JavaScript
+  * Visual Studio Code
+  * BootStrap
+  * D3
+  * Plotly
+
 
 
