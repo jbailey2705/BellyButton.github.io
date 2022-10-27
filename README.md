@@ -25,3 +25,4 @@ The fully deployed webpage can be accessed at https://jbailey2705.github.io/
 
 ![Screen Shot 2022-10-26 at 7 39 31 PM](https://user-images.githubusercontent.com/109354592/198164421-e3c68923-43d1-4308-9abf-3ca0e749f937.png)
 ![Screen Shot 2022-10-26 at 7 39 42 PM](https://user-images.githubusercontent.com/109354592/198164423-55abbe73-45e5-497c-95a0-f928d7e8fbe4.png)
+
