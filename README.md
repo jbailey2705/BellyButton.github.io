@@ -13,5 +13,7 @@ The Belly Button project focuses on building an interactive dashboard to visuali
   * D3
   * Plotly
 
+## Link to Belly Button Biodiversity webpage
+The fully deployed webpage can be accessed at https://jbailey2705.github.io/
 
-
+## Featured Functions
